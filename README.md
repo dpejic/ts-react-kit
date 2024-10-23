@@ -2,11 +2,11 @@
 
 **ts-react-kit** is a starter project for building React applications with TypeScript. It includes some common tools for development and testing, including:
 
-- 🚀 **React.js with TypeScript**: Build robust, scalable, and maintainable UIs with the React.js framework, enhanced with TypeScript for type safety and improved development experience.
-- 🎨 **Tailwind CSS**: Rapidly prototype and design beautiful, responsive UIs with the highly customizable CSS framework.
-- 🧹 **ESLint and Prettier**: Enforce consistent code style and catch errors early with the help of the popular code linters and formatters.
-- 🤖 **lint-staged**: Automatically check and format code before committing it to version control, ensuring that your codebase is always clean and consistent.
-- 🧪 **Jest and React Testing Library**: Write automated tests for your React components with the popular testing frameworks, ensuring that your UI works as expected.
+-  **React.js with TypeScript**: Build robust, scalable, and maintainable UIs with the React.js framework, enhanced with TypeScript for type safety and improved development experience.
+-  **Tailwind CSS**: Rapidly prototype and design beautiful, responsive UIs with the highly customizable CSS framework.
+-  **ESLint and Prettier**: Enforce consistent code style and catch errors early with the help of the popular code linters and formatters.
+-  **lint-staged**: Automatically check and format code before committing it to version control, ensuring that your codebase is always clean and consistent.
+-  **Jest and React Testing Library**: Write automated tests for your React components with the popular testing frameworks, ensuring that your UI works as expected.
 
 ## Getting Started
 
